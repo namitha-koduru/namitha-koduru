@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect With Me
-- 💌 Email: your@email.com  
+- 💌 Email: namithakoduru18@gmail.com  
 - 🔗 LinkedIn: your-link  
 
 ---
