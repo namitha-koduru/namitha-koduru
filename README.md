@@ -1,29 +1,38 @@
-# Hi 👋, I'm Namitha
-
-💻 Full Stack Developer  
-🎓 College Student  
-🚀 Building cool projects
+<h1 align="center">Hi 👋, I'm Namitha</h1>
+<h3 align="center">🚀 Full Stack Developer | 💻 Building Real-World Projects</h3>
 
 ---
 
-## 🔧 Tech Stack
-- HTML, CSS, JavaScript
-- React, Node.js
-- MongoDB
+## 🌟 About Me
+- 🎓 College Student  
+- 💡 Passionate about Web Development  
+- 🔥 Currently building full-stack apps  
 
 ---
 
-## 📌 Featured Projects
-- 🍽 Restaurant App → [Live Link]
-- 📒 Notes App → [GitHub Repo]
+## 🛠️ Tech Stack
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,git)
+
+---
+
+## 🚀 Projects
+- 🍽️ Restaurant App  
+- 📒 Notes App  
+- 🌐 Portfolio Website  
 
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME)
+![Namitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
 ---
 
-## 📫 Contact
-- Email: your@email.com
-- LinkedIn: link
+## 📫 Connect With Me
+- 💌 Email: your@email.com  
+- 🔗 LinkedIn: your-link  
+
+---
+
+⭐ *"Consistency beats talent"*  
