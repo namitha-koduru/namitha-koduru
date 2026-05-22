@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Namitha</h1>
 
 <h3 align="center">
-Software Developer | Python Enthusiast | Problem Solver
+Full Stack Developer | Problem Solver
 </h3>
 
 <p align="center">
-Passionate about building scalable applications, writing clean code, and continuously learning modern technologies 🚀
+Passionate about building scalable web applications, creating clean user experiences, and continuously learning modern technologies 🚀
 </p>
 
 ---
 
 # 💫 About Me
 
-💻 Passionate Software Developer focused on building efficient, scalable, and maintainable applications  
+💻 Full Stack Developer focused on building efficient, scalable, and user-friendly applications  
 
-🌱 Currently improving my Backend Development, Python, Flask, and Database Management skills  
+🌱 Currently improving my Backend Development, Full Stack Development, APIs, and Database Management skills  
 
-🧠 Interested in System Design, APIs, Problem Solving, and Real-World Project Development  
+🧠 Interested in System Design, Web Technologies, Problem Solving, and Real-World Project Development  
 
 🚀 Exploring modern technologies and continuously improving coding practices  
 
@@ -77,20 +77,20 @@ Passionate about building scalable applications, writing clean code, and continu
 </p>
 
 <p>
-<em>Also skilled in Data Structures, OOPs, APIs, and Problem Solving</em>
+<em>Also skilled in Data Structures, OOPs, REST APIs, and Problem Solving</em>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌟 Personal Portfolio
+## 🍽 Lussica Restaurant
 
-A modern personal portfolio website showcasing my projects, technical skills, and experience.
+A responsive restaurant website with modern UI design and smooth user experience.
 
-### 🔗 Live Demo
+### 🔗 Repository
 
-[🌐 Visit Portfolio](https://kodurunamitha.netlify.app/)
+[View Project](https://github.com/namitha-koduru/lussica-res)
 
 ### 🛠 Tech Used
 
@@ -100,18 +100,36 @@ A modern personal portfolio website showcasing my projects, technical skills, an
 
 <br>
 
-## 📰 TOP STORIES
+## 🌦 Weather Detection
 
-A sleek and responsive news webpage UI with a clean reading experience.
+A weather detection application that provides real-time weather information using APIs.
 
-### 🔗 Live Demo
+### 🔗 Repository
 
-[📰 View Project](https://topstories-neewspage.netlify.app/)
+[View Project](https://github.com/namitha-koduru/Weather-detection)
 
 ### 🛠 Tech Used
 
+- Python
+- Flask
+- APIs
 - HTML
 - CSS
+
+<br>
+
+## 🎨 Canvas Using Java
+
+A Java-based graphics project demonstrating drawing and canvas operations using Java concepts.
+
+### 🔗 Repository
+
+[View Project](https://github.com/namitha-koduru/canvas_using_java)
+
+### 🛠 Tech Used
+
+- Java
+- OOPs
 
 ---
 
@@ -135,10 +153,11 @@ A sleek and responsive news webpage UI with a clean reading experience.
 
 # 🎯 Current Goals
 
-- Strengthening Backend Development skills  
-- Building Full Stack Projects  
-- Learning scalable API development  
+- Strengthening Full Stack Development skills  
+- Building scalable real-world applications  
+- Learning advanced API development  
 - Contributing to Open Source Projects  
+- Improving System Design knowledge  
 
 ---
 
