@@ -84,72 +84,74 @@ Passionate about building scalable web applications, creating clean user experie
 
 # 🚀 Featured Projects
 
+<div align="center">
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
 ## 🍽 Lussica Restaurant
 
 A responsive restaurant website with modern UI design and smooth user experience.
 
+### 🛠 Tech Stack
+HTML • CSS • JavaScript
+
 ### 🔗 Repository
+<a href="https://github.com/namitha-koduru/lussica-res">
+View Project
+</a>
 
-[View Project](https://github.com/namitha-koduru/lussica-res)
+</td>
 
-### 🛠 Tech Used
-
-- HTML
-- CSS
-- JavaScript
-
-<br>
+<td width="33%" valign="top">
 
 ## 🌦 Weather Detection
 
 A weather detection application that provides real-time weather information using APIs.
 
+### 🛠 Tech Stack
+Python • Flask • APIs • HTML • CSS
+
 ### 🔗 Repository
+<a href="https://github.com/namitha-koduru/Weather-detection">
+View Project
+</a>
 
-[View Project](https://github.com/namitha-koduru/Weather-detection)
+</td>
 
-### 🛠 Tech Used
-
-- Python
-- Flask
-- APIs
-- HTML
-- CSS
-
-<br>
+<td width="33%" valign="top">
 
 ## 🎨 Canvas Using Java
 
 A Java-based graphics project demonstrating drawing and canvas operations using Java concepts.
 
+### 🛠 Tech Stack
+Java • OOPs
+
 ### 🔗 Repository
+<a href="https://github.com/namitha-koduru/canvas_using_java">
+View Project
+</a>
 
-[View Project](https://github.com/namitha-koduru/canvas_using_java)
+</td>
 
-### 🛠 Tech Used
+</tr>
+</table>
 
-- Java
-- OOPs
-
----
-
+</div>
 # 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=namitha-koduru&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=namitha-koduru&theme=tokyonight&hide_border=true" />
 
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitha-koduru&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitha-koduru&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
+</div>
 
 # 🎯 Current Goals
 
