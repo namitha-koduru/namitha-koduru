@@ -1,174 +1,140 @@
-<h1 align="center">Hi 👋, I'm Namitha</h1>
+# Hi 👋, I'm Namitha Koduru
 
-<h3 align="center">
-Full Stack Developer 
-</h3>
+### 🚀 Full Stack Developer | Open Source Contributor | Problem Solver
 
-<p align="center">
-Passionate about building scalable web applications, creating clean user experiences, and continuously learning modern technologies 🚀
-</p>
-
----
-
-# 💫 About Me
-
-💻 Full Stack Developer focused on building efficient, scalable, and user-friendly applications  
-
-🌱 Currently improving my Backend Development, Full Stack Development, APIs, and Database Management skills  
-
-🧠 Interested in System Design, Web Technologies, Problem Solving, and Real-World Project Development  
-
-🚀 Exploring modern technologies and continuously improving coding practices  
-
-🤝 Open to collaborating on innovative and open-source projects  
-
----
-
-# 🌐 Connect With Me
+Passionate about building scalable web applications, solving real-world problems, and continuously learning modern technologies.
 
 <p align="left">
-
-<a href="https://github.com/namitha-koduru" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="45" />
-</a>
-
-<a href="https://linkedin.com/in/namitha-koduru" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-</a>
-
-<a href="mailto:namithakoduru18@gmail.com" target="_blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="45" />
-</a>
-
+  <img src="https://komarev.com/ghpvc/?username=namitha-koduru&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-# 🛠 Tech Stack
+## 👩‍💻 About Me
 
-## 💻 Languages
+* 🎓 B.Tech Student
+* 💻 Full Stack Developer
+* 🌱 Currently learning Backend Development, System Design, APIs & Databases
+* 🧠 Interested in DSA, Web Development, and Open Source
+* 🚀 Building real-world projects and improving coding skills
+* 🤝 Open to collaboration on innovative projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,javascript" />
-</p>
+---
 
-## ⚙️ Backend & Frameworks
+## 🌐 Connect With Me
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs" />
-</p>
+<p align="left">
+<a href="https://github.com/namitha-koduru">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
 
-## 🗄 Databases
+<a href="https://linkedin.com/in/namitha-koduru">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-## 🌐 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
-
-## 🧰 Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-<p>
-<em>Also skilled in Data Structures, OOPs, REST APIs, and Problem Solving</em>
+<a href="mailto:namithakoduru18@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 💻 Tech Stack
 
-<div align="center">
+### Languages
 
-<table>
-<tr>
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript"/>
+</p>
 
-<td width="33%" valign="top">
+### Frontend
 
-## 🍽 Lussica Restaurant
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js"/>
+</p>
 
-A responsive restaurant website with modern UI design and smooth user experience.
+### Backend
 
-### 🛠 Tech Stack
-HTML • CSS • JavaScript
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,flask"/>
+</p>
 
-### 🔗 Repository
-<a href="https://github.com/namitha-koduru/lussica-res">
-View Project
-</a>
+### Databases
 
-</td>
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+</p>
 
-<td width="33%" valign="top">
+### Tools
 
-## 🌦 Weather Detection
-
-A weather detection application that provides real-time weather information using APIs.
-
-### 🛠 Tech Stack
-Python • Flask • APIs • HTML • CSS
-
-### 🔗 Repository
-<a href="https://github.com/namitha-koduru/Weather-detection">
-View Project
-</a>
-
-</td>
-
-<td width="33%" valign="top">
-
-## 🎨 Canvas Using Java
-
-A Java-based graphics project demonstrating drawing and canvas operations using Java concepts.
-
-### 🛠 Tech Stack
-Java • OOPs
-
-### 🔗 Repository
-<a href="https://github.com/namitha-koduru/canvas_using_java">
-View Project
-</a>
-
-</td>
-
-</tr>
-</table>
-
-</div>
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=namitha-koduru&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=namitha-koduru&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitha-koduru&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-# 🎯 Current Goals
-
-- Strengthening Full Stack Development skills  
-- Building scalable real-world applications  
-- Learning advanced API development  
-- Contributing to Open Source Projects  
-- Improving System Design knowledge  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+</p>
 
 ---
 
-# ⚡ Fun Fact
+## 🚀 Featured Projects
 
-I enjoy solving coding challenges, exploring new technologies, and turning ideas into real-world applications 💡
+### 🍽️ Lussica Restaurant
+
+Responsive restaurant website with modern UI.
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+🔗 https://github.com/namitha-koduru/lussica-res
+
+### 🌦️ Weather Detection
+
+Real-time weather information using APIs.
+
+**Tech Stack:** Python, Flask, APIs
+
+🔗 https://github.com/namitha-koduru/Weather-detection
+
+### 🎨 Canvas Using Java
+
+Java graphics and drawing project.
+
+**Tech Stack:** Java, OOP
+
+🔗 https://github.com/namitha-koduru/canvas_using_java
 
 ---
+
+## 📊 GitHub Stats
 
 <p align="center">
-✨ Thank you for visiting my profile ✨
+<img src="https://github-readme-stats.vercel.app/api?username=namitha-koduru&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namitha-koduru&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitha-koduru&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=namitha-koduru&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 🎯 Current Goals
+
+* Strengthening Full Stack Development
+* Solving More DSA Problems
+* Contributing to Open Source
+* Building Production-Ready Applications
+* Learning System Design
+
+---
+
+## ⚡ Fun Fact
+
+💡 I enjoy solving coding challenges, exploring new technologies, and turning ideas into real-world applications.
+
+---
+
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
